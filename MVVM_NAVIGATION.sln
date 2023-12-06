@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM_NAVIGATION", "MVVM_NAVIGATION\MVVM_NAVIGATION.csproj", "{93BEBEA9-195B-4258-8AB2-4C913BFC8DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93BEBEA9-195B-4258-8AB2-4C913BFC8DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BEBEA9-195B-4258-8AB2-4C913BFC8DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BEBEA9-195B-4258-8AB2-4C913BFC8DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BEBEA9-195B-4258-8AB2-4C913BFC8DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7084F98-5F74-4DC0-898A-BBB4A425D61D}
+	EndGlobalSection
+EndGlobal
